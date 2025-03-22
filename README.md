@@ -242,7 +242,7 @@ creative-arrow-despawn-rate - `20`
 ## Troubleshooting lag
 Paper offers the `/mspt` command, which shows you how long it takes for your server to tick once. If the first and second number in the command's output are below 50, your server is completely fine!
 
-You may install [Spark](https://spark.lucko.me/), which is a great performance monitoring plugin. It also helps other (and you) find out what is causing lag (plugins, data packs...).
+You may install [Spark](https://spark.lucko.me/), which is a great performance monitoring plugin. It also helps others (and you) find out what is causing lag (plugins, data packs...).
 ## Miscellaneous
 Check out [Aikar's Flags](https://docs.papermc.io/paper/aikars-flags) for optimized startup flags.
 
