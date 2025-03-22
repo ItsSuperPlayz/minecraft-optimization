@@ -14,3 +14,5 @@ Use [Chunky](https://github.com/pop4959/Chunky) to pre-generate your world's chu
 ## Configurations
 All of the following values are recommended starting values pulled from [YouHaveTrouble's guide](https://github.com/YouHaveTrouble/minecraft-optimization).
 ### [server.properties](https://minecraft.wiki/w/Server.properties)
+sync-chunk-writes ```false```
+**network-compression-threshold** ```256```
