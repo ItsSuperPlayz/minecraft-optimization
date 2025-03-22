@@ -1,1 +1,3 @@
-# minecraft-optimization
+# Minecraft server optimization guide
+## Before you read this...
+Yes, this is a copy of [YouHaveTrouble's guide](https://github.com/YouHaveTrouble/minecraft-optimization). 
